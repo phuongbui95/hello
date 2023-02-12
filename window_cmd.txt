@@ -3,3 +3,9 @@ Tutorial: https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows
 dir = list all content in a directory
 create a file = type NUL > name (i.e. type NUL > hello.html)
 cd = move to a directory
+
+Git commands:
+git clone "url": Clone git from web to local
+git add "file name": Add a local git to orginal git
+git commit -m "message": Save an adjusted git
+git status: tell me my situation in repository.
