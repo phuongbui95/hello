@@ -8,5 +8,15 @@ Git commands:
 git clone "url": Clone git from web to local
 git add "file name": Add a local git to orginal git
 git commit -m "message": Save an adjusted git
+git commit -am "message": git add + git commit
 git status: tell me my situation in repository.
 git push: push local git to github
+git pull: pull a git from github to local file
+git log: tell info about history
+press "q" to exit [git log]
+git reset: reverse to the older state of git
+git reset --hard <commit> : back to git version in git log
+git reset --hard origin/master: back to git version in master
+git branch: tell which brand user working orginal
+git checkout -b <branch name>: create a new branch
+git checkout <branch name>: switch to a branch
