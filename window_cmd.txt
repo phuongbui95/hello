@@ -20,3 +20,5 @@ git reset --hard origin/master: back to git version in master
 git branch: tell which brand user working orginal
 git checkout -b <branch name>: create a new branch
 git checkout <branch name>: switch to a branch
+git merge <branch>: merge subbranch to master branch
+
