@@ -1,0 +1,5 @@
+Tutorial: https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows
+
+dir = list all content in a directory
+create a file = type NUL > name (i.e. type NUL > hello.html)
+cd = move to a directory
