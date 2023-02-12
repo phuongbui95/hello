@@ -9,3 +9,4 @@ git clone "url": Clone git from web to local
 git add "file name": Add a local git to orginal git
 git commit -m "message": Save an adjusted git
 git status: tell me my situation in repository.
+git push: push local git to github
